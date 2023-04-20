@@ -1,0 +1,14 @@
+{
+    "gpt-3.5-turbo": {
+        "prompt_price": "0.002",
+        "completion_price": "0.002"
+    },
+    "gpt-4-8k": {
+        "prompt_price": "0.03",
+        "completion_price": "0.06"
+    },
+    "gpt-4-32k": {
+        "prompt_price": "0.06",
+        "completion_price": "0.12"
+    }
+}
